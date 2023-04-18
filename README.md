@@ -3,34 +3,42 @@
 
 ## 	🚀 Quickstart
 <h3>1. To run the project, you need to use this command to install all dependencies: </h3>
+
 ```bash
 pip install -r requirements.txt
 
 ```
+
 <h3>2. Make sure you are currently in the main tree to access manage.py:</h3>
 
 
 <h3>3. You need to use this command to run the project:</h3>
+
 ```bash
 python manage.py migrate
 python manage.py runserver
 
 ```
 
+
 ## 	💫 Start
 
 <h3>1. In your browser, run this path:</h3>
+
 ```bash
 http://127.0.0.1:8000/paraphrase/?tree=<here your tree value without "<>" symbols>
 
 ```
+
 <h4>After that, you will get the answer of your tree 20 times</h4>
 
 <h3>2. To set a limit value - run this path and change the limit value:</h3>
+
 ```bash
 http://127.0.0.1:8000/paraphrase/?tree=<here your tree value withour "<>" symbols>;limit=<limit int value>
 
 ```
+
 <h3>Example: </h3>
 
 ```bash
