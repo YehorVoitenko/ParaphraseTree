@@ -47,7 +47,7 @@ http://127.0.0.1:8000/paraphrase/?tree=(S%20(NP%20(NP%20(DT%20The)%20(JJ%20charm
 
 ## 🛠 Tools
 <h4>1. Django Rest Framework</h4>
-<h4>2. Tests (in _ParaphraseTreeAPI/tests.py_)</h4>
+<h4>2. Tests (in <i>ParaphraseTreeAPI/tests.py</i>)</h4>
 <h4>3. Black (code style refactoring )</h4>
 <h4>4. Class Based View (CBV) </h4>
 <h4>5. nltk library for trees </h4>
